@@ -1,4 +1,4 @@
-QuestReaderSoundLengths_Pack_TheBurningCrusade = {
+SpeakStoneSoundLengths_Pack_TheBurningCrusade = {
     ["10001_completion.ogg"] = 6.10,
     ["10001_description.ogg"] = 34.47,
     ["10001_progress.ogg"] = 6.45,
